@@ -1,0 +1,17 @@
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\bin\Debug\BTTongHop1.exe.config
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\bin\Debug\BTTongHop1.exe
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\bin\Debug\BTTongHop1.pdb
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\obj\Debug\BTTongHop1.Properties.Resources.resources
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\obj\Debug\GameLatHinh.csproj.GenerateResource.Cache
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\obj\Debug\BTTongHop1.exe
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\obj\Debug\BTTongHop1.pdb
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\obj\Debug\BTTongHop1.frmLatHinh.resources
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\Game\bin\Debug\BTTongHop1.exe.config
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\Game\obj\Debug\BTTongHop1.exe
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\Game\obj\Debug\BTTongHop1.pdb
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\Game\bin\Debug\BTTongHop1.exe
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\Game\bin\Debug\BTTongHop1.pdb
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\Game\obj\Debug\GameLatHinh.csprojResolveAssemblyReference.cache
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\Game\obj\Debug\BTTongHop1.frmLatHinh.resources
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\Game\obj\Debug\BTTongHop1.Properties.Resources.resources
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\Game\obj\Debug\GameLatHinh.csproj.GenerateResource.Cache

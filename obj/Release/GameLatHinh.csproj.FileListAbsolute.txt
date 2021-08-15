@@ -1,0 +1,9 @@
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\bin\Release\BTTongHop1.exe.config
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\bin\Release\BTTongHop1.exe
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\bin\Release\BTTongHop1.pdb
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\obj\Release\GameLatHinh.csprojResolveAssemblyReference.cache
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\obj\Release\BTTongHop1.frmLatHinh.resources
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\obj\Release\BTTongHop1.Properties.Resources.resources
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\obj\Release\GameLatHinh.csproj.GenerateResource.Cache
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\obj\Release\BTTongHop1.exe
+E:\LAPTRINHGIAODIEN\TU_HOC\BaiTapChuong8\BTTongHop1\obj\Release\BTTongHop1.pdb
